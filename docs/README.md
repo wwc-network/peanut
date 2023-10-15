@@ -16,6 +16,10 @@ Here are a couple of example overviews from products with really great docs:
 
 ## Quick links
 
+[making-a-post.md](product-guides/making-a-post.md "mention")
+
+[our-features.md](overview/our-features.md "mention")
+
 ## Get Started
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
